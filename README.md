@@ -1,10 +1,10 @@
-# Proyecto de Vue 3 + Vite + Tailwind
+# Proyecto Tailwind
 
 ¡Bienvenido/a al proyecto de Vue 3 + Vite! Este es un curso ofrecido por EDteam que te ayudará a comenzar a desarrollar con Vue 3 utilizando Vite como herramienta de compilación rápida.
 
 ## Descripción del Proyecto
 
-Este proyecto es parte del curso de Vue 3 + Vite + tailwind de EDteam. Aquí encontrarás ejemplos prácticos, ejercicios y tutoriales que te ayudarán a comprender y dominar el desarrollo con Vue 3 y Vite.
+Este proyecto es parte del tailwind de EDteam.
 
 ## Capturas de Pantalla
 ![Captura de pantalla 1](/src/assets/pagina.png)
@@ -24,7 +24,7 @@ Este proyecto es parte del curso de Vue 3 + Vite + tailwind de EDteam. Aquí enc
   - [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
 
 ## Instalación
-
+ 
 1. Clona este repositorio: `git clone https://github.com/loth381/tailwindcss-spotifyclone.git`
 2. Instala las dependencias: `npm install`
 3. Inicia el servidor de desarrollo: `npm run dev`
