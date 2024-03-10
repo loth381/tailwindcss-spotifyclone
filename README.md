@@ -6,7 +6,10 @@
 
 Este proyecto es parte del tailwind de EDteam.
 
-## Capturas de Pantalla
+## Pagina wev
+
+[tailwindcss-spotifyclone](https://tailwindcss-spotifyclone.vercel.app)
+
 ![Captura de pantalla 1](/src/assets/pagina.png)
 
 ## Tecnologías Utilizadas
